@@ -1,0 +1,238 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 1352px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 237px;
+  height: 237px;
+  --animation-custom_in-translate_x: -300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 68px auto 0 60px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 791px;
+  height: 791px;
+  background-image: url("images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg");
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -207px 27px 0 auto;
+}
+
+.u-section-1 .u-shape-2 {
+  width: 245px;
+  height: 245px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -184px 0 0 auto;
+}
+
+.u-section-1 .u-shape-3 {
+  width: 146px;
+  height: 146px;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: 37px 269px 0 auto;
+}
+
+.u-section-1 .u-group-1 {
+  width: 634px;
+  min-height: 656px;
+  background-image: none;
+  height: auto;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -555px auto 60px 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 50px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 10px 0 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 422px;
+  margin: 20px 25px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 1.25rem;
+  width: 100%;
+  background-image: none;
+  border-style: none;
+  padding: 16px 0 17px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    width: 180px;
+    height: 180px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 700px;
+    height: 700px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-top: 43px;
+    margin-right: 174px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 560px;
+    min-height: 662px;
+    margin-top: -561px;
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1504px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 558px;
+    height: 558px;
+    margin-right: 20px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    margin-top: -113px;
+    margin-right: 29px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-right: 50px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1683px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 497px;
+    height: 497px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 194px;
+    height: 194px;
+    margin-top: 67px;
+    margin-right: 25px;
+  }
+
+  .u-section-1 .u-shape-3 {
+    margin-right: auto;
+    margin-left: 93px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 0;
+    margin-right: 15px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1123px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 126px;
+    height: 126px;
+    margin-top: 28px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 269px;
+    width: 269px;
+    margin-top: -28px;
+  }
+
+  .u-section-1 .u-shape-2 {
+    width: 70px;
+    height: 70px;
+    margin-top: -86px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-shape-3 {
+    width: 77px;
+    height: 77px;
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 300px;
+    margin-top: 53px;
+    margin-right: 28px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 577px;
+    margin-top: -39px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-bottom: 29px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+  }
+}
